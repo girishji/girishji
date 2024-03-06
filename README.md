@@ -2,7 +2,8 @@
 <p align="center">
   <samp>
     👋 Hi, I'm Girish.
-    <br /><br />
+    <br /><br /> ✨ I have primarily worked in storage but have recently delved into ML/AI.
+    <br /><br /> ☕️ These repositories are side projects.
   </samp>
 </p>
 
