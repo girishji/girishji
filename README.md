@@ -7,6 +7,9 @@
   </samp>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
+
+
 <!--
 
 <p align="center">
