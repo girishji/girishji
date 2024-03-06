@@ -2,12 +2,21 @@
 <p align="center">
   <samp>
     👋 Hi, I'm Girish.
-    <br /><br /> ✨ I have primarily worked in storage but have recently delved into ML/AI.
-    <br /><br /> ☕️ These repositories are side projects.
+    <br /><br /> ✨ I have primarily worked in storage and networking but have recently delved into ML/AI.
   </samp>
 </p>
 
+#### Repositories
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=zephyr-xiao-ble)](https://github.com/girishji/zephyr-xiao-ble)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=autosuggest.vim)](https://github.com/girishji/autosuggest.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=devdocs.vim)](https://github.com/girishji/devdocs.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=scope.vim)](https://github.com/girishji/scope.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=easyjump.vim)](https://github.com/girishji/easyjump.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=fFtT.vim)](https://github.com/girishji/fFtT.vim)
+
 
 
 <!--
