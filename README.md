@@ -10,6 +10,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=zephyr-xiao-ble)](https://github.com/girishji/zephyr-xiao-ble)
+
+
+<!--
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=autosuggest.vim)](https://github.com/girishji/autosuggest.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=devdocs.vim)](https://github.com/girishji/devdocs.vim)
@@ -17,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=easyjump.vim)](https://github.com/girishji/easyjump.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=fFtT.vim)](https://github.com/girishji/fFtT.vim)
 
-
+-->
 
 <!--
 
