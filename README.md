@@ -2,7 +2,7 @@
 <p align="center">
   <samp>
     👋 Hi, I'm Girish.
-    <br /><br /> ✨ I have primarily worked in storage and networking but have recently delved into ML/AI.
+    <br /><br /> ✨ I am a software engineer interested in storage, networking, and cloud infra.
   </samp>
 </p>
 
