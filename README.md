@@ -1,10 +1,8 @@
 <!--
 <p align="center">
   <samp>
-    👋 Hi, I'm Girish.
-    <!--
+    👋 Hi, I'm Girish.  
     <br /><br /> ✨ I am a software engineer interested in storage, networking, and cloud infra.
-    -->
   </samp>
 </p>
 -->
