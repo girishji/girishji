@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
   <samp>
     👋 Hi, I'm Girish.
@@ -7,20 +7,24 @@
     -->
   </samp>
 </p>
+-->
 
+Hobby Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=AoC2023)](https://github.com/girishji/AoC2023)
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=zephyr-xiao-ble)](https://github.com/girishji/zephyr-xiao-ble)
+
+Vim Plugins
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=autosuggest.vim)](https://github.com/girishji/autosuggest.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimsuggest)](https://github.com/girishji/vimsuggest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=pythondoc.vim)](https://github.com/girishji/pythondoc.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=devdocs.vim)](https://github.com/girishji/devdocs.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=scope.vim)](https://github.com/girishji/scope.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimbits)](https://github.com/girishji/vimbits)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=easyjump.vim)](https://github.com/girishji/easyjump.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=fFtT.vim)](https://github.com/girishji/fFtT.vim)
-
--->
 
 <!--
 
