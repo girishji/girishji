@@ -8,9 +8,10 @@
   </samp>
 </p>
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/AoC2023)
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=zephyr-xiao-ble)](https://github.com/girishji/zephyr-xiao-ble)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=autosuggest.vim)](https://github.com/girishji/autosuggest.vim)
@@ -25,7 +26,7 @@
 
 <p align="center">
   <samp>
-    👋 Hi, I'm Guillermo, but my friends call me "G-mo".
+    👋 Hi, I'm X, but my friends call me "G".
     <br /><br />✨ I'm a FrontEnd developer passionate about (pineapple) pizza
     and design. <br /><br />☕️ Wanna chat? Don't be shy!<br />
     <a href="https://twitter.com/pineapplegiant">Twitter</a><br />
