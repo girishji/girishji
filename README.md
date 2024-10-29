@@ -18,30 +18,29 @@ Hobby Repositories
 <details>
   <summary><b> ML Projects </b></summary>
   <ul>
-    <li><a href="https://github.com/girishji/Pima">Forecasting the onset of diabetes</a></li>
-    <li><a href="https://github.com/girishji/EthDatabase"> ETH database </a></li>
     <li><a href="https://github.com/girishji/CS229">Stanford CS229</a></li>
-    <li><a href="https://github.com/girishji/Associations">Associations</a></li>
-    <li><a href="https://github.com/girishji/PCA">Dimensionality Reduction with PCA</a></li>
-    <li><a href="https://github.com/girishji/KMeans"></a>Image compression using k-means clustering and dimensionality reduction</li>
+    <li><a href="https://github.com/girishji/KMeans">Image compression using k-means clustering and dimensionality reduction</a></li>
     <li><a href="https://github.com/girishji/SEC-13F">Scrape Form 13F-HR of SEC</a></li>
     <li><a href="https://github.com/girishji/house-price-prediction">Price prediction using Linear Regressio</a></li>
     <li><a href="https://github.com/girishji/kddcup99">Intrusion Detection using LDA and Random Forests on KDD CUP 99 Dataset using R</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/girishji/Pima">Forecasting the onset of diabetes</a></li>
+    <li><a href="https://github.com/girishji/PCA">Dimensionality Reduction with PCA</a></li>
+    <li><a href="https://github.com/girishji/EthDatabase"> ETH database </a></li>    
+    <li><a href="https://github.com/girishji/Associations">Associations</a></li>    
+    </ul>
+</details>
+    
+<details>
+  <summary><b> Microprocessor and KiCad Projects </b></summary>
+  <ul>
+    <li><a href="https://github.com/girishji/zephyr-xiao-ble">Zephyr GPIO Usage Sample for Seeed Xiao BLE</a></li>
+    <li><a href="https://github.com/girishji/rdzen">Controller for optical keyboard.</a></li>
     <li><a href="https://github.com/girishji/optical-amoeba">Optical Amoeba</a></li>
     <li><a href="https://github.com/girishji/keychron-optical-keyboard">Keyboard PCB in KiCad using Keychron low-profile optical switches</a></li>
     <li><a href="https://github.com/girishji/optical-keyboard-old">Keyboard PCB for Gateron optical switches</a></li>
     <li><a href="https://github.com/girishji/choc-keyboard">Choc Keyboard</a></li>
-    <li><a href="https://github.com/girishji/optical-keyboard-mx">Optical keyboard PCB based on Gateron MX optical switches (KiCad project)</a></li>
-    <li><a href="https://github.com/girishji/rdzen">Controller for optical keyboard.</a></li>
-    <li><a href="https://github.com/girishji/zephyr-xiao-ble">Zephyr GPIO Usage Sample for Seeed Xiao BLE</a></li>
+    <li><a href="https://github.com/girishji/optical-keyboard-mx">Optical keyboard PCB based on Gateron MX optical switches (KiCad project)</a></li>  
     <li><a href="https://github.com/girishji/amoeba-choc">Single key pcb for Kailh Choc switch</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href="https://github.com/girishji/glosariusz">SPPW glossary of Polish phrases in Finance, Banking and Accounting</a></li>
-    <li><a href="https://github.com/girishji/Dino">Financial Statement Analysis of Dino</a></li>
-    <li></li>
   </ul>
 </details>
 
