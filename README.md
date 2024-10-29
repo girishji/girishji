@@ -7,7 +7,7 @@
 </p>
 -->
 
-Hobby Repositories
+<b>Hobby Repositories</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=re2)](https://github.com/girishji/re2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=AoC2023)](https://github.com/girishji/AoC2023)
