@@ -14,11 +14,17 @@
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=zephyr-xiao-ble)](https://github.com/girishji/zephyr-xiao-ble)
 -->
-
+<!--
 <details>
   <summary><b> ML Projects </b></summary>
   <ul>
-    <li><a href="https://github.com/girishji/CS229">Stanford CS229</a></li>
+    <li></li>
+
+    </ul>
+ </details>
+ -->   
+ <b> ML Projects </b>
+ <ul>
     <li><a href="https://github.com/girishji/KMeans">Image compression using k-means clustering and dimensionality reduction</a></li>
     <li><a href="https://github.com/girishji/SEC-13F">Scrape Form 13F-HR of SEC</a></li>
     <li><a href="https://github.com/girishji/house-price-prediction">Price prediction using Linear Regressio</a></li>
@@ -27,8 +33,8 @@
     <li><a href="https://github.com/girishji/PCA">Dimensionality Reduction with PCA</a></li>
     <li><a href="https://github.com/girishji/EthDatabase"> ETH database </a></li>    
     <li><a href="https://github.com/girishji/Associations">Associations</a></li>    
-    </ul>
-</details>
+ </ul>
+
     
 <details>
   <summary><b> Microprocessor and KiCad Projects </b></summary>
