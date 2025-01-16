@@ -23,6 +23,20 @@
     </ul>
  </details>
  -->   
+
+<b>Vim Plugins</b>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimsuggest)](https://github.com/girishji/vimsuggest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=pythondoc.vim)](https://github.com/girishji/pythondoc.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=devdocs.vim)](https://github.com/girishji/devdocs.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=scope.vim)](https://github.com/girishji/scope.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimbits)](https://github.com/girishji/vimbits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=easyjump.vim)](https://github.com/girishji/easyjump.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=fFtT.vim)](https://github.com/girishji/fFtT.vim)
+
+
+
  <b> ML Projects </b>
  <ul>
     <li><a href="https://github.com/girishji/KMeans">Image compression using k-means clustering and dimensionality reduction</a></li>
@@ -48,16 +62,6 @@
   </ul>
 
 
-<b>Vim Plugins</b>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimsuggest)](https://github.com/girishji/vimsuggest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=pythondoc.vim)](https://github.com/girishji/pythondoc.vim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=devdocs.vim)](https://github.com/girishji/devdocs.vim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=scope.vim)](https://github.com/girishji/scope.vim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimbits)](https://github.com/girishji/vimbits)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=easyjump.vim)](https://github.com/girishji/easyjump.vim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=fFtT.vim)](https://github.com/girishji/fFtT.vim)
 
 <!--
 
