@@ -34,10 +34,8 @@
     <li><a href="https://github.com/girishji/EthDatabase"> ETH database </a></li>    
     <li><a href="https://github.com/girishji/Associations">Associations</a></li>    
  </ul>
-
     
-<details>
-  <summary><b> Microprocessor and KiCad Projects </b></summary>
+<b> Microprocessor and KiCad Projects </b>
   <ul>
     <li><a href="https://github.com/girishji/zephyr-xiao-ble">Zephyr GPIO Usage Sample for Seeed Xiao BLE</a></li>
     <li><a href="https://github.com/girishji/rdzen">Controller for optical keyboard.</a></li>
@@ -48,7 +46,7 @@
     <li><a href="https://github.com/girishji/optical-keyboard-mx">Optical keyboard PCB based on Gateron MX optical switches (KiCad project)</a></li>  
     <li><a href="https://github.com/girishji/amoeba-choc">Single key pcb for Kailh Choc switch</a></li>
   </ul>
-</details>
+
 
 <b>Vim Plugins</b>
 
