@@ -32,9 +32,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=devdocs.vim)](https://github.com/girishji/devdocs.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=scope.vim)](https://github.com/girishji/scope.vim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimbits)](https://github.com/girishji/vimbits)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=easyjump.vim)](https://github.com/girishji/easyjump.vim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=fFtT.vim)](https://github.com/girishji/fFtT.vim)
 
+<b>ARM/KiCad</b>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=zephyr-xiao-ble)](https://github.com/girishji/zephyr-xiao-ble)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=optical-amoeba)](https://github.com/girishji/optical-amoeba)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=optical-keyboard-mx)](https://github.com/girishji/optical-keyboard-mx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=optical-keyboard-old)](https://github.com/girishji/optical-keyboard-old)
 
 
  <b> ML Projects </b>
@@ -51,13 +55,9 @@
     
 <b> Microprocessor and KiCad Projects </b>
   <ul>
-    <li><a href="https://github.com/girishji/zephyr-xiao-ble">Zephyr GPIO Usage Sample for Seeed Xiao BLE</a></li>
     <li><a href="https://github.com/girishji/rdzen">Controller for optical keyboard.</a></li>
-    <li><a href="https://github.com/girishji/optical-amoeba">Optical Amoeba</a></li>
     <li><a href="https://github.com/girishji/keychron-optical-keyboard">Keyboard PCB in KiCad using Keychron low-profile optical switches</a></li>
-    <li><a href="https://github.com/girishji/optical-keyboard-old">Keyboard PCB for Gateron optical switches</a></li>
-    <li><a href="https://github.com/girishji/choc-keyboard">Choc Keyboard</a></li>
-    <li><a href="https://github.com/girishji/optical-keyboard-mx">Optical keyboard PCB based on Gateron MX optical switches (KiCad project)</a></li>  
+    <li><a href="https://github.com/girishji/choc-keyboard">Choc Keyboard</a></li> 
     <li><a href="https://github.com/girishji/amoeba-choc">Single key pcb for Kailh Choc switch</a></li>
   </ul>
 
