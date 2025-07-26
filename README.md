@@ -23,7 +23,7 @@
     </ul>
  </details>
  -->   
-
+<!--
 <b>Vim Plugins</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=girishji&repo=vimcomplete)](https://github.com/girishji/vimcomplete)
