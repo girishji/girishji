@@ -5,7 +5,7 @@
     <br /><br /> ✨ I am a software engineer interested in storage, networking, and cloud infra.
   </samp>
 </p>
--->
+
 
 <b>Hobby Repositories</b>
 
@@ -60,7 +60,7 @@
     <li><a href="https://github.com/girishji/choc-keyboard">Choc Keyboard</a></li> 
     <li><a href="https://github.com/girishji/amoeba-choc">Single key pcb for Kailh Choc switch</a></li>
   </ul>
-
+-->
 
 
 <!--
