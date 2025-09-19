@@ -8,7 +8,7 @@ Some features I’ve worked on:
 - **Insert mode autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967)]  
 - Support for **external completion sources** (e.g. [LSP](https://microsoft.github.io/language-server-protocol/)) [[1](https://github.com/vim/vim/pull/17065), [2](https://github.com/vim/vim/pull/17651), [3](https://github.com/vim/vim/pull/17396)]  
 - **Completion menu usability improvements** [[1](https://github.com/vim/vim/pull/17076), [2](https://github.com/vim/vim/pull/17087)]  
-- **Command-line autocompletion enhancements** (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
+- **Command-line autocompletion and enhancements** (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
 - **Completion for search commands (`/` and `?`)** [[1](https://github.com/vim/vim/pull/17570), [2](https://github.com/vim/vim/pull/17667)]  
 - Integration of a **better fuzzy matching algorithm** [[1](https://github.com/vim/vim/pull/17900)]  
 
