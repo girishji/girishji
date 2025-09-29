@@ -5,7 +5,7 @@
 I’m also a [Vim](https://www.vim.org/)/[Neovim](https://neovim.io/) [committer](https://github.com/vim/vim/pulls?q=is%3Apr+author%3Agirishji), contributing mainly to performance improvements and enhancements in *insert* and *command-line* modes.  
 
 Some features I’ve worked on:  
-- **Insert mode autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967)]  
+- **Insert mode autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967), [4](https://github.com/vim/vim/pull/18387)]  
 - Support for **external completion sources** (e.g. [LSP](https://microsoft.github.io/language-server-protocol/)) [[1](https://github.com/vim/vim/pull/17065), [2](https://github.com/vim/vim/pull/17651), [3](https://github.com/vim/vim/pull/17396)]  
 - **Completion menu usability improvements** [[1](https://github.com/vim/vim/pull/17076), [2](https://github.com/vim/vim/pull/17087)]  
 - **Command-line autocompletion** and enhancements (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
