@@ -2,9 +2,10 @@
   
 👋 Hi, I’m Girish — a software engineer working mainly in **C/C++** and **Python**, currently exploring **AI/LLMs**.
 
-I’m also a [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/) [committer](https://github.com/vim/vim/pulls?q=is%3Apr+author%3Agirishji), where I focus on advancing completion capabilities and optimizing performance.
+I contribute to both [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/) as a [committer](https://github.com/vim/vim/pulls?q=is%3Apr+author%3Agirishji), primarily working on improving completion functionality and performance optimizations.
 
-Some features I’ve implemented:  
+Highlights of my contributions include:
+ 
 - **Insert mode autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967), [4](https://github.com/vim/vim/pull/18387)]  
 - Support for **external completion sources (e.g. LSP)** [[1](https://github.com/vim/vim/pull/17065), [2](https://github.com/vim/vim/pull/17651), [3](https://github.com/vim/vim/pull/17396)]  
 - **Command-line autocompletion** and enhancements (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
