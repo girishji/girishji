@@ -4,7 +4,7 @@
 
 I’m also a [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/) [committer](https://github.com/vim/vim/pulls?q=is%3Apr+author%3Agirishji), where I focus on advancing completion capabilities and optimizing performance.
 
-Some features I’ve worked on:  
+Some features I’ve implemented:  
 - **Insert mode autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967), [4](https://github.com/vim/vim/pull/18387)]  
 - Support for **external completion sources (e.g. LSP)** [[1](https://github.com/vim/vim/pull/17065), [2](https://github.com/vim/vim/pull/17651), [3](https://github.com/vim/vim/pull/17396)]  
 - **Command-line autocompletion** and enhancements (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
