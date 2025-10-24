@@ -11,7 +11,8 @@ Highlights of my contributions include:
 - **Command-line autocompletion** and enhancements (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
 - **Completion for search and replace commands (`/`, `?`, `s`, `g`, `v`, etc.)** [[1](https://github.com/vim/vim/pull/17570), [2](https://github.com/vim/vim/pull/17667)]
 - Integration of a **better fuzzy matching algorithm** [[1](https://github.com/vim/vim/pull/17900)]  
-- **Completion menu usability improvements** [[1](https://github.com/vim/vim/pull/17076), [2](https://github.com/vim/vim/pull/17087)]  
+- **Completion menu usability improvements** [[1](https://github.com/vim/vim/pull/17076), [2](https://github.com/vim/vim/pull/17087)]
+- Cosmetic improvements to completion menu [[1](https://github.com/vim/vim/pull/18486), [2](https://github.com/vim/vim/pull/18487)]
 
 
 
