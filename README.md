@@ -1,8 +1,8 @@
 
   
-👋 Hi, I’m Girish — a software engineer working mainly in **C/C++** and **Python**, currently exploring **AI/LLMs**.
+👋 Hi, I’m Girish — a software engineer working mainly in **C/C++** and **Python**.
 
-I [contribute](https://github.com/vim/vim/pulls?q=is%3Apr+author%3Agirishji) to both [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/), primarily working on improving completion functionality and performance optimizations.
+I contribute to both [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/), primarily working on improving completion functionality and performance optimizations.
 
 Highlights of my contributions include:
  
