@@ -4,7 +4,7 @@
 
 I contribute to both [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/), primarily working on improving completion functionality and performance optimizations.
 
-Highlights of my contributions include:
+Highlights of my contributions:
  
 - **Insert mode autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967), [4](https://github.com/vim/vim/pull/18387)]  
 - Support for **external completion sources (e.g. LSP)** [[1](https://github.com/vim/vim/pull/17065), [2](https://github.com/vim/vim/pull/17651), [3](https://github.com/vim/vim/pull/17396)]  
