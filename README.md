@@ -9,7 +9,7 @@ Highlights of my contributions:
 - Insert mode **autocompletion** (`:help ins-autocompletion`) [[1](https://github.com/vim/vim/pull/17812), [2](https://github.com/vim/vim/pull/17960), [3](https://github.com/vim/vim/pull/17967), [4](https://github.com/vim/vim/pull/18387)]  
 - Support for _external completion sources_ (e.g. LSP) [[1](https://github.com/vim/vim/pull/17065), [2](https://github.com/vim/vim/pull/17651), [3](https://github.com/vim/vim/pull/17396)]  
 - Command-line **autocompletion** and enhancements (`:help cmdline-autocompletion`) [[1](https://github.com/vim/vim/pull/17806), [2](https://github.com/vim/vim/pull/16759), [3](https://github.com/vim/vim/pull/17115)]  
-- Completion for _search_ and _replace_ commands (`/`, `?`, `s`, `g`, `v`, etc.)** [[1](https://github.com/vim/vim/pull/17570), [2](https://github.com/vim/vim/pull/17667)]
+- Completion for _search_ and _replace_ commands (`/`, `?`, `s`, `g`, `v`, etc.) [[1](https://github.com/vim/vim/pull/17570), [2](https://github.com/vim/vim/pull/17667)]
 - Integration of _fuzzy_ matching algorithm [[1](https://github.com/vim/vim/pull/17900)]  
 - Usability improvements to completion menu [[1](https://github.com/vim/vim/pull/17076), [2](https://github.com/vim/vim/pull/17087)]
 - Cosmetic improvements to completion menu [[1](https://github.com/vim/vim/pull/18486), [2](https://github.com/vim/vim/pull/18487)]
